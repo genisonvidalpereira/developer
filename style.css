@@ -19,7 +19,9 @@ p{
     text-align: center;
 }
 
-h1{text-align: center;}
+h1{text-align: center;
+    color:red;
+}
 
 img{
 width:100%;
